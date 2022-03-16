@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as pd
+import numpy as np
 
 df1 = pd.read_csv('CalibOutputs_list.csv')
 df2 = pd.read_csv('BM_list.csv')
